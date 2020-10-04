@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342295201228",
+    "firebase_url": "https://diliverymanage.firebaseio.com",
+    "project_id": "diliverymanage",
+    "storage_bucket": "diliverymanage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342295201228:android:e5816b449073fd4ad8c969",
+        "android_client_info": {
+          "package_name": "com.example.diliverymanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342295201228-ssh523fe5sfj2segu7jsc69pe527ljpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diliverymanage",
+            "certificate_hash": "3c55b617ed7a98fccbec0a520f411e23f65e69ad"
+          }
+        },
+        {
+          "client_id": "342295201228-5el15ms09n8i5e8ai0ed8gq6mino7ui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMbrBZnxcvHCVEW1fEK7NedlTMUnMRb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342295201228-5el15ms09n8i5e8ai0ed8gq6mino7ui1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
